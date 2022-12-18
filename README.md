@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @StephenChi-hi
-- 👀 I’m interested in Finance and Scientific inovations
-- 🌱 I’m currently learning web development, mobile app development
-- 💞️ I’m looking to collaborate on finace and research projects
-- 📫 How to reach me; whatsapp 08148234092
+- 👀 I’m interested in Finance, E-commerce, Engineering and Scientific innovations
+- 🌱 I’m currently a Web developer, Mobile app developer and Python Programmer
+- 💞️ I’m looking to collaborate on Finace, E-commerce, Engineering and Research projects
+- 📫 How to reach me; whatsapp 08148234092, email; nwikechisom77@gmail.com
 
 <!---
 StephenChi-hi/StephenChi-hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

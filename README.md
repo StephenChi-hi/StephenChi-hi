@@ -8,10 +8,6 @@ I'm a passionate and results-driven software developer with a strong interest in
 - 🤖 **AI Tech**
 - 🔗 **Web3 Engineering**
 - 🧪 **Scientific Innovations**
-
----
-
-- 🚀 **Currently Learning**: Rust, Web3 Integration, AI Technologies
  
 ---
 

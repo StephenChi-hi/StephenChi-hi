@@ -7,7 +7,7 @@ I'm a passionate and results-driven software developer and project manger with a
 - 🧠 **Solving Complex Problems**
 - 🤖 **AI Tech**
 - 🔗 **Web3 Engineering**
-- 🧪 **Scientific [Innovations**
+- 🧪 **Scientific Innovations and Research**
  
 ---
 

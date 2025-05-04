@@ -1,37 +1,27 @@
 
 ## 👋 Hi there, I'm Chisom
 
-I'm a passionate and results-driven software developer with a strong interest in:
+I'm a passionate and results-driven software developer and project manger with a strong interest in:
 
 - 🌐 **Web Technology**
 - 🧠 **Solving Complex Problems**
 - 🤖 **AI Tech**
 - 🔗 **Web3 Engineering**
-- 🧪 **Scientific Innovations**
+- 🧪 **Scientific [Innovations**
  
----
-
-### 🧩 What I Bring to the Table
-
-🚀 A creative mindset and problem-solving approach , 🛠️ Real-world experience building scalable applications, 📊 Strong communication and collaboration skills, 🌍 Passion for building impactful digital solutions and more
-
 ---
 
 ### 🤝 Open to Collaborate On
 
 - 💸 FinTech Projects  
 - 🛍️ E-commerce Platforms  
-- ⚙️ Engineering & Research Projects  
+- ⚙️ Engineering & Research Projects 
 - 🌐 Web3 & AI Innovations  
 - 🧠 Any tech-related challenges that spark curiosity
 
 ---
 
-
 > *"Driven by curiosity. Focused on innovation."*
- 
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nwike-chisom) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chisom_ncs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nwikechisom77@gmail.com) 

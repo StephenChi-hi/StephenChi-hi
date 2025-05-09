@@ -1,26 +1,6 @@
 
 ## 👋 Hi there, I'm Chisom
 
-I'm a passionate and results-driven software developer and project manger with a strong interest in:
-
-- 🌐 **Web Technology**
-- 🧠 **Solving Complex Problems**
-- 🤖 **AI Tech**
-- 🔗 **Web3 Engineering**
-- 🧪 **Scientific Innovations and Research**
- 
----
-
-### 🤝 Open to Collaborate On
-
-- 💸 FinTech Projects  
-- 🛍️ E-commerce Platforms  
-- ⚙️ Engineering & Research Projects 
-- 🌐 Web3 & AI Innovations  
-- 🧠 Any tech-related challenges that spark curiosity
-
----
-
 > *"Driven by curiosity. Focused on innovation."*
 
 ## 🌐 Socials:
@@ -43,6 +23,26 @@ I'm a passionate and results-driven software developer and project manger with a
 [![](https://visitcount.itsvg.in/api?id=StephenChi-hi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+I'm a passionate and results-driven software developer and project manger with a strong interest in:
+
+- 🌐 **Web Technology**
+- 🧠 **Solving Complex Problems**
+- 🤖 **AI Tech**
+- 🔗 **Web3 Engineering**
+- 🧪 **Scientific Innovations and Research**
+ 
+---
+
+ ### 🤝 Open to Collaborate On
+
+- 💸 FinTech Projects  
+- 🛍️ E-commerce Platforms  
+- ⚙️ Engineering & Research Projects 
+- 🌐 Web3 & AI Innovations  
+- 🧠 Any tech-related challenges that spark curiosity
+
+---
 <!---
 StephenChi-hi/StephenChi-hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
